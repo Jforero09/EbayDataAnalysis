@@ -1,0 +1,9 @@
+DATA SET 1
+¿De qué país provienen los productos más vendidos en artículos tecnológicos? 
+¿Que producto remanufacturado fue el que registro la mayor cantidad de ventas? 
+
+
+DATA SET 2
+
+¿Cual fue el producto de tecnología más vendido para la época de junio a agosto?  
+¿Cuál es la marca de tecnología con la mayor cantidad de ventas para la temporada navideña? 
